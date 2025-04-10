@@ -132,6 +132,6 @@ This project is licensed under the MIT License.
 ---
 
 ## 👨‍💻 Author
-**Your Name**  
-GitHub: [@your-username](https://github.com/your-username)
+**Forklift Tech to Full Stack Dev**  
+GitHub: [@ssantana2423](https://github.com/ssantana2423)
 
